@@ -1,0 +1,62 @@
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: socm2015-ipds.aux
+The style file: abbrv.bst
+Database file #1: socm2015.bib
+Repeated entry---line 84 of file socm2015.bib
+ : @article{van2012decentralized
+ :                              ,
+I'm skipping whatever remains of this entry
+Warning--entry type for "shutdown" isn't style-file defined
+--line 116 of file socm2015.bib
+Warning--entry type for "redecent" isn't style-file defined
+--line 125 of file socm2015.bib
+Warning--entry type for "verge" isn't style-file defined
+--line 133 of file socm2015.bib
+Warning--empty note in turnip
+Warning--empty journal in murray2014social
+Warning--empty journal in sambracimba
+Warning--empty year in sambracimba
+Warning--empty journal in van2012decentralized
+You've used 19 entries,
+            2118 wiz_defined-function locations,
+            599 strings with 6956 characters,
+and the built_in function-call counts, 6054 in all, are:
+= -- 594
+> -- 291
+< -- 5
++ -- 120
+- -- 96
+* -- 377
+:= -- 1012
+add.period$ -- 56
+call.type$ -- 19
+change.case$ -- 103
+chr.to.int$ -- 0
+cite$ -- 24
+duplicate$ -- 237
+empty$ -- 462
+format.name$ -- 96
+if$ -- 1271
+int.to.chr$ -- 0
+int.to.str$ -- 19
+missing$ -- 13
+newline$ -- 94
+num.names$ -- 38
+pop$ -- 125
+preamble$ -- 1
+purify$ -- 84
+quote$ -- 0
+skip$ -- 189
+stack$ -- 0
+substring$ -- 310
+swap$ -- 58
+text.length$ -- 5
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 76
+warning$ -- 5
+while$ -- 58
+width$ -- 21
+write$ -- 195
+(There was 1 error message)

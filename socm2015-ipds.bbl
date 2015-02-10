@@ -1,0 +1,110 @@
+\begin{thebibliography}{10}
+
+\bibitem{brickley2012foaf}
+D.~Brickley and L.~Miller.
+\newblock Foaf vocabulary specification 0.98.
+\newblock {\em Namespace document}, 9, 2012.
+
+\bibitem{champin2010sioc}
+P.~A. Champin and A.~Passant.
+\newblock Sioc in action representing the dynamics of online communities.
+\newblock In {\em Proceedings of the 6th International Conference on Semantic
+  Systems}, page~12. ACM, 2010.
+
+\bibitem{redecent}
+L.~Clark.
+\newblock Tim berners-lee: we need to re-decentralise the web, 2014.
+
+\bibitem{collins2009privacy}
+R.~T.~G. Collins.
+\newblock Privacy implications of deep packet inspection technology: Why the
+  next wave in online advertising shouldn't rock the self-regulatory boat, the.
+\newblock {\em Ga. L. Rev.}, 44:545, 2009.
+
+\bibitem{tor}
+R.~Dingledine, N.~Mathewson, and P.~Syverson.
+\newblock Tor: The second-generation onion router.
+\newblock Technical report, DTIC Document, 2004.
+
+\bibitem{heath2013digital}
+W.~Heath, D.~Alexander, and P.~Booth.
+\newblock Digital enlightenment, mydex, and restoring control over personal
+  data to the individual.
+\newblock In {\em Digital Enlightenment Forum Yearbook 2013: The Value of
+  Personal Data}, pages 253--269, 2013.
+
+\bibitem{hendler2010semantic}
+J.~Hendler and T.~Berners-Lee.
+\newblock From the semantic web to social machines: A research challenge for ai
+  on the world wide web.
+\newblock {\em Artificial Intelligence}, 174(2):156--161, 2010.
+
+\bibitem{verge}
+B.~Kersey.
+\newblock The troubled history behind diaspora, the \$200,000 facebook killer
+  launched on kickstarter, 2012.
+
+\bibitem{turnip}
+M.~V. Kleek, D.~Murray-Rust, A.~Guy, D.~A. Smith, and N.~Shadbolt.
+\newblock Self curation, social partitioning, escaping from prejudice and
+  harassment: the many dimensions of lying online.
+\newblock Jan 2015.
+
+\bibitem{marwick2011tweet}
+A.~E. Marwick et~al.
+\newblock I tweet honestly, i tweet passionately: Twitter users, context
+  collapse, and the imagined audience.
+\newblock {\em New media \& society}, 13(1):114--133, 2011.
+
+\bibitem{shutdown}
+N.~Mott.
+\newblock The era of third-party apps is ending, as security risks prompt
+  whatsapp and snapchat to shut down their apis, 01 2015.
+
+\bibitem{murray2014social}
+D.~Murray-Rust, M.~Van~Kleek, L.~Dragan, and N.~Shadbolt.
+\newblock Social palimpsests--clouding the lens of the personal panopticon.
+\newblock 2014.
+
+\bibitem{presbrey2014linked}
+J.~J.~W. Presbrey.
+\newblock {\em Linked data platform for web applications}.
+\newblock PhD thesis, Massachusetts Institute of Technology, 2014.
+
+\bibitem{ross2010person}
+L.~Ross and R.~E. Nisbett.
+\newblock The person and the situation.
+\newblock {\em T. Nadelhoffer, E. Nahmias, \& S. Nichols, Moral psychology:
+  Historical and contemporary readings}, pages 187--196, 2010.
+
+\bibitem{saint2005streaming}
+P.~Saint-Andre.
+\newblock Streaming xml with jabber/xmpp.
+\newblock {\em Internet Computing, IEEE}, 9(5):82--89, 2005.
+
+\bibitem{sambracimba}
+A.~V. Sambra, S.~Hawke, T.~Berners-Lee, L.~Kagal, and A.~Aboulnaga.
+\newblock Cimba-client-integrated microblogging architecture.
+
+\bibitem{van2014future}
+M.~Van~Kleek and K.~OHara.
+\newblock The future of social is personal: The potential of the personal data
+  store.
+\newblock In {\em Social Collective Intelligence}, pages 125--158. Springer,
+  2014.
+
+\bibitem{van2012decentralized}
+M.~Van~Kleek, D.~A. Smith, N.~Shadbolt, et~al.
+\newblock A decentralized architecture for consolidating personal information
+  ecosystems: The webbox.
+\newblock 2012.
+
+\bibitem{van20147}
+M.~Van~Kleek, D.~A. Smith, R.~Tinati, K.~O'Hara, W.~Hall, and N.~R. Shadbolt.
+\newblock 7 billion home telescopes: observing social machines through personal
+  data stores.
+\newblock In {\em Proceedings of the companion publication of the 23rd
+  international conference on World wide web companion}, pages 915--920.
+  International World Wide Web Conferences Steering Committee, 2014.
+
+\end{thebibliography}
