@@ -1,40 +1,32 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.3.6)  10 FEB 2015 10:50
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.3.6)  15 MAR 2015 16:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**socm2015-ipds.tex
-(./socm2015-ipds.tex
+**/Users/electronic/Desktop/socm2015-spds/socm2015-ipds.tex
+(/Users/electronic/Desktop/socm2015-spds/socm2015-ipds.tex
 LaTeX2e <2011/06/27>
 Babel <3.9f> and hyphenation patterns for 78 languages loaded.
-(./sig-alternate.cls
-(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/epsfig.sty
+(/Users/electronic/Desktop/socm2015-spds/sig-alternate.cls (/usr/local/texlive/
+2013/texmf-dist/tex/latex/graphics/epsfig.sty
 Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
-
 (/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
-
 (/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks14
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphics.sty
+) (/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
-
 (/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/graphics.cfg
+) (/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/graphics.cfg
 File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
-
 (/usr/local/texlive/2013/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
-
 (/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
-)
-(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+) (/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count79
@@ -44,10 +36,8 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \epsfxsize=\dimen104
 \epsfysize=\dimen105
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/amssymb.sty
+) (/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
-
 (/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks15
@@ -55,25 +45,20 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-))
-(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsmath.sty
+)) (/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip41
-
 For additional information on amsmath, use the `?' option.
 (/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01
-
 (/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks16
 \ex@=\dimen106
-))
-(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsbsy.sty
+)) (/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen107
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsopn.sty
+) (/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count80
@@ -166,7 +151,6 @@ LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
 \c@subsection=\count105
 \c@subsubsection=\count106
 \c@paragraph=\count107
-
 Using 'Abbrev' bibliography style
 LaTeX Info: Redefining \cite on input line 1211.
 \bibindent=\dimen122
@@ -178,21 +162,17 @@ LaTeX Info: Redefining \cite on input line 1211.
 \copyrightetc=\toks35
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
-
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/t1enc.def
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
 )
 LaTeX Font Info:    Try loading font information for T1+aer on input line 100.
-
 (/usr/local/texlive/2013/texmf-dist/tex/latex/ae/t1aer.fd
 File: t1aer.fd 1997/11/16 Font definitions for T1/aer.
-)))
-(/usr/local/texlive/2013/texmf-dist/tex/latex/url/url.sty
+))) (/usr/local/texlive/2013/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip11
 Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/subfigure/subfigure.sty
+) (/usr/local/texlive/2013/texmf-dist/tex/latex/subfigure/subfigure.sty
 Package: subfigure 2002/03/15 v2.1.5 subfigure package
 \subfigtopskip=\skip44
 \subfigcapskip=\skip45
@@ -204,21 +184,17 @@ Package: subfigure 2002/03/15 v2.1.5 subfigure package
 \c@lofdepth=\count110
 \c@subtable=\count111
 \c@lotdepth=\count112
-
 ****************************************
 * Local config file subfigure.cfg used *
 ****************************************
 (/usr/local/texlive/2013/texmf-dist/tex/latex/subfigure/subfigure.cfg)
 \subfig@top=\skip48
 \subfig@bottom=\skip49
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/savetrees/savetrees.sty
+) (/usr/local/texlive/2013/texmf-dist/tex/latex/savetrees/savetrees.sty
 Package: savetrees 2013/04/09 v2.1 Pack as much text as possible onto each page
-
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2012/10/14 v2.6b package option processing (HA)
-
 (/usr/local/texlive/2013/texmf-dist/tex/generic/xkeyval/xkeyval.tex
 \XKV@toks=\toks36
 \XKV@tempa@toks=\toks37
@@ -226,8 +202,7 @@ Package: xkeyval 2012/10/14 v2.6b package option processing (HA)
 File: xkeyval.tex 2012/10/14 v2.6b key=value parser (HA)
 ))
 \everypar=\toks38
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/microtype/microtype.sty
+) (/usr/local/texlive/2013/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2013/05/23 v2.5a Micro-typographical refinements (RS)
 \MT@toks=\toks39
 \MT@count=\count114
@@ -235,7 +210,6 @@ LaTeX Info: Redefining \textls on input line 766.
 \MT@outer@kern=\dimen125
 LaTeX Info: Redefining \textmicrotypecontext on input line 1285.
 \MT@listname@count=\count115
-
 (/usr/local/texlive/2013/texmf-dist/tex/latex/microtype/microtype-pdftex.def
 File: microtype-pdftex.def 2013/05/23 v2.5a Definitions specific to pdftex (RS)
 
@@ -244,26 +218,23 @@ LaTeX Info: Redefining \lslig on input line 915.
 \MT@outer@space=\skip50
 )
 Package microtype Info: Loading configuration file microtype.cfg.
-
 (/usr/local/texlive/2013/texmf-dist/tex/latex/microtype/microtype.cfg
 File: microtype.cfg 2013/05/23 v2.5a microtype main configuration file (RS)
-))
-(./socm2015-ipds.aux)
+)) (/Users/electronic/Desktop/socm2015-spds/socm2015-ipds.aux)
 \openout1 = `socm2015-ipds.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
 (/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count116
@@ -280,12 +251,10 @@ LaTeX Font Info:    ... okay on input line 53.
 ) (/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
-
 (/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
-)
-(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+) (/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
@@ -293,22 +262,16 @@ Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+) (/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
-
 (/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
-
 (/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
 Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
-))
-(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+)) (/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
-
 (/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
 Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
-
 (/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
 Package etexcmds Info: Could not find \expanded.
@@ -320,12 +283,11 @@ Package grfext Info: Graphics extension search list:
 (grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 452.
-
 (/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Redefining \microtypecontext on input line 53.
+LaTeX Info: Redefining \microtypecontext on input line 59.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -336,64 +298,39 @@ Package microtype Info: Tracking enabled.
 Package microtype Info: Using tracking set `all'.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
-
 (/usr/local/texlive/2013/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 157.
-
+LaTeX Font Info:    Try loading font information for U+msa on input line 163.
 (/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/microtype/mt-msa.cfg
+) (/usr/local/texlive/2013/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 157.
-
+LaTeX Font Info:    Try loading font information for U+msb on input line 163.
 (/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/microtype/mt-msb.cfg
+) (/usr/local/texlive/2013/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+lasy on input line 157.
-
+LaTeX Font Info:    Try loading font information for U+lasy on input line 163.
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-
-LaTeX Warning: Citation `redecent' on page \thepage  undefined on input line 17
-5.
-
-
-LaTeX Warning: Citation `ross2010person' on page \thepage  undefined on input l
-ine 181.
-
-
-LaTeX Warning: Citation `van20147' on page \thepage  undefined on input line 18
-3.
-
-
-LaTeX Warning: Citation `van2014future' on page \thepage  undefined on input li
-ne 183.
-
-
-LaTeX Warning: Citation `van2012decentralized' on page \thepage  undefined on i
-nput line 183.
+Underfull \hbox (badness 1057) in paragraph at lines 163--163
+[]\crnotice Copyright is held by the In-ter-na-tional World Wide Web Con-fer-en
+ce
+ []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+[1{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ]
-
-LaTeX Warning: Citation `saint2005streaming' on page \thepage  undefined on inp
-ut line 189.
-
-LaTeX Font Info:    Try loading font information for T1+aett on input line 191.
+LaTeX Font Info:    Try loading font information for T1+aett on input line 197.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/ae/t1aett.fd
 File: t1aett.fd 1997/11/16 Font definitions for T1/aett.
@@ -403,183 +340,127 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Underfull \hbox (badness 10000) in paragraph at lines 191--191
+Underfull \hbox (badness 10000) in paragraph at lines 197--197
 \T1/aett/m/n/9/-25ls en . wikipedia . org / wiki / Comparison _ of _ software _
  and _
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 191--191
+Underfull \hbox (badness 10000) in paragraph at lines 197--197
 [][]\T1/aer/m/n/9/-25ls (+20) Alternative In-ter-net: $\T1/aett/m/n/9/-25ls git
 hub . com / redecentralize /
  []
 
 
-Underfull \hbox (badness 2027) in paragraph at lines 193--193
+Underfull \hbox (badness 2027) in paragraph at lines 199--199
 [][]\T1/aer/m/n/9/-25ls (+20) Twister, A Fully De-cen-tralised Mi-croblog-ging 
 Client -
  []
 
 
-LaTeX Warning: Citation `verge' on page \thepage  undefined on input line 197.
-
-
-Overfull \hbox (6.3074pt too wide) in paragraph at lines 199--199
+Overfull \hbox (6.3074pt too wide) in paragraph at lines 205--205
 []\secfnt DESIGNING A PLAT-FORM FOR DE-CEN-
  []
 
-
-LaTeX Warning: Citation `hendler2010semantic' on page \thepage  undefined on in
-put line 201.
-
-
-LaTeX Warning: Citation `shutdown' on page \thepage  undefined on input line 20
-7.
-
 [2]
-
-LaTeX Warning: Citation `turnip' on page \thepage  undefined on input line 232.
-
-
-
-LaTeX Warning: Citation `marwick2011tweet' on page \thepage  undefined on input
- line 234.
-
-
-LaTeX Warning: Citation `turnip' on page \thepage  undefined on input line 234.
-
-
-
 Underfull \vbox (badness 1558) has occurred while \output is active []
 
 
-
-LaTeX Warning: Citation `collins2009privacy' on page \thepage  undefined on inp
-ut line 236.
-
-
-LaTeX Warning: Citation `heath2013digital' on page \thepage  undefined on input
- line 238.
+LaTeX Warning: Citation `bendrath2011end' on page \thepage  undefined on input 
+line 242.
 
 
-LaTeX Warning: Citation `murray2014social' on page \thepage  undefined on input
- line 240.
-
-
-Overfull \hbox (6.77602pt too wide) in paragraph at lines 244--244
+Overfull \hbox (6.77602pt too wide) in paragraph at lines 250--250
 []\secfnt INDX: A DE-CEN-TRALISED SO-CIAL MA-
  []
 
-
-LaTeX Warning: Citation `van2012decentralized' on page \thepage  undefined on i
-nput line 248.
-
 <transformer.png, id=19, 1073.00874pt x 500.87125pt>
 File: transformer.png Graphic file (type png)
- <use transformer.png>
-Package pdftex.def Info: transformer.png used on input line 262.
+<use transformer.png>
+Package pdftex.def Info: transformer.png used on input line 268.
 (pdftex.def)             Requested size: 252.0pt x 117.62833pt.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 262--263
+Overfull \hbox (12.0pt too wide) in paragraph at lines 268--269
  [] 
  []
 
 [3] <cimba.png, id=24, 1620.0525pt x 1204.5pt>
 File: cimba.png Graphic file (type png)
- <use cimba.png>
-Package pdftex.def Info: cimba.png used on input line 282.
+<use cimba.png>
+Package pdftex.def Info: cimba.png used on input line 288.
 (pdftex.def)             Requested size: 241.91785pt x 179.85852pt.
 
-Overfull \hbox (7.91968pt too wide) in paragraph at lines 282--282
+Overfull \hbox (7.91968pt too wide) in paragraph at lines 288--288
  [] 
  []
 
 <timon.png, id=25, 1144.275pt x 795.97375pt>
 File: timon.png Graphic file (type png)
- <use timon.png>
-Package pdftex.def Info: timon.png used on input line 286.
+<use timon.png>
+Package pdftex.def Info: timon.png used on input line 292.
 (pdftex.def)             Requested size: 241.91785pt x 168.27681pt.
 
-Overfull \hbox (7.91968pt too wide) in paragraph at lines 286--287
+Overfull \hbox (7.91968pt too wide) in paragraph at lines 292--293
  [][] 
  []
 
 
-Underfull \hbox (badness 1701) in paragraph at lines 290--290
+Underfull \hbox (badness 1701) in paragraph at lines 296--296
 \T1/aer/bx/n/9/-25ls the Linked Data Plat-form, com-mu-ni-cat-ing trans-
  []
 
 
-Underfull \hbox (badness 1342) in paragraph at lines 290--290
+Underfull \hbox (badness 1342) in paragraph at lines 296--296
 \T1/aer/bx/n/9/-25ls par-ently with INDX's TI-MON (bot-tom) via the
  []
-
-
-LaTeX Warning: Citation `sambracimba' on page \thepage  undefined on input line
- 295.
-
-
-LaTeX Warning: Citation `presbrey2014linked' on page \thepage  undefined on inp
-ut line 295.
-
-
-LaTeX Warning: Citation `brickley2012foaf' on page \thepage  undefined on input
- line 297.
-
-
-LaTeX Warning: Citation `champin2010sioc' on page \thepage  undefined on input 
-line 297.
 
 
 Underfull \vbox (badness 1490) has occurred while \output is active []
 
 
-Overfull \hbox (12.48898pt too wide) in paragraph at lines 299--299
+Overfull \hbox (12.48898pt too wide) in paragraph at lines 305--305
 []\secfnt Multiple Iden-ti-ties and Counter-surveillance 
  []
 
 
 Underfull \vbox (badness 1215) has occurred while \output is active []
 
- [4 <./transformer.png> <./cimba.png> <./timon.png>]
-
-LaTeX Warning: Citation `tor' on page \thepage  undefined on input line 305.
-
-<tor.png, id=32, 1027.84pt x 770.88pt>
+[4 </Users/electronic/Desktop/socm2015-spds/transformer.png> </Users/electronic
+/Desktop/socm2015-spds/cimba.png> </Users/electronic/Desktop/socm2015-spds/timo
+n.png>] <tor.png, id=32, 1027.84pt x 770.88pt>
 File: tor.png Graphic file (type png)
- <use tor.png>
-Package pdftex.def Info: tor.png used on input line 315.
+<use tor.png>
+Package pdftex.def Info: tor.png used on input line 321.
 (pdftex.def)             Requested size: 252.0pt x 188.99075pt.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 315--316
+Overfull \hbox (12.0pt too wide) in paragraph at lines 321--322
  [] 
  []
 
-[5 <./tor.png>] (./socm2015-ipds.bbl) [6] (./socm2015-ipds.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+[5 </Users/electronic/Desktop/socm2015-spds/tor.png>] (/Users/electronic/Deskto
+p/socm2015-spds/socm2015-ipds.bbl) [6] (/Users/electronic/Desktop/socm2015-spds
+/socm2015-ipds.aux) ) 
 Here is how much of TeX's memory you used:
- 5503 strings out of 493315
- 81039 string characters out of 6137905
- 202477 words of memory out of 5000000
- 8400 multiletter control sequences out of 15000+600000
+ 5506 strings out of 493315
+ 81579 string characters out of 6137905
+ 203413 words of memory out of 5000000
+ 8401 multiletter control sequences out of 15000+600000
  93629 words of font info for 437 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 41i,10n,56p,1904b,363s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/tex
-live/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texliv
-e/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2
-013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/201
-3/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb></usr/local/texlive/2013/
-texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2013/texmf-d
-ist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2013/texmf-dist/fon
-ts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/u
-rw/times/utmr8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/times/u
-tmri8a.pfb>
-Output written on socm2015-ipds.pdf (6 pages, 1065387 bytes).
+ 41i,10n,56p,1946b,363s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/base/8
+r.enc}</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.
+pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb
+></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></
+usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></us
+r/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb></usr/
+local/texlive/2013/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/t
+exlive/2013/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/
+2013/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2013/texmf
+-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2013/texmf-dist/font
+s/type1/urw/times/utmri8a.pfb>
+Output written on /Users/electronic/Desktop/socm2015-spds/socm2015-ipds.pdf (6 
+pages, 1065941 bytes).
 PDF statistics:
  73 PDF objects out of 1000 (max. 8388607)
  46 compressed objects within 1 object stream

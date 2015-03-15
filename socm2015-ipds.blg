@@ -13,6 +13,7 @@ Warning--entry type for "redecent" isn't style-file defined
 --line 125 of file socm2015.bib
 Warning--entry type for "verge" isn't style-file defined
 --line 133 of file socm2015.bib
+Warning--I didn't find a database entry for "bendrath2011end"
 Warning--empty note in turnip
 Warning--empty journal in murray2014social
 Warning--empty journal in sambracimba
@@ -20,7 +21,7 @@ Warning--empty year in sambracimba
 Warning--empty journal in van2012decentralized
 You've used 19 entries,
             2118 wiz_defined-function locations,
-            599 strings with 6956 characters,
+            600 strings with 6971 characters,
 and the built_in function-call counts, 6054 in all, are:
 = -- 594
 > -- 291
