@@ -12,52 +12,51 @@ Warning--entry type for "shutdown" isn't style-file defined
 Warning--entry type for "redecent" isn't style-file defined
 --line 125 of file socm2015.bib
 Warning--entry type for "verge" isn't style-file defined
---line 133 of file socm2015.bib
-Warning--I didn't find a database entry for "bendrath2011end"
+--line 144 of file socm2015.bib
 Warning--empty note in turnip
 Warning--empty journal in murray2014social
 Warning--empty journal in sambracimba
 Warning--empty year in sambracimba
 Warning--empty journal in van2012decentralized
-You've used 19 entries,
+You've used 20 entries,
             2118 wiz_defined-function locations,
-            600 strings with 6971 characters,
-and the built_in function-call counts, 6054 in all, are:
-= -- 594
-> -- 291
+            605 strings with 7116 characters,
+and the built_in function-call counts, 6407 in all, are:
+= -- 631
+> -- 304
 < -- 5
-+ -- 120
-- -- 96
-* -- 377
-:= -- 1012
-add.period$ -- 56
-call.type$ -- 19
-change.case$ -- 103
++ -- 126
+- -- 100
+* -- 405
+:= -- 1069
+add.period$ -- 59
+call.type$ -- 20
+change.case$ -- 108
 chr.to.int$ -- 0
-cite$ -- 24
-duplicate$ -- 237
-empty$ -- 462
-format.name$ -- 96
-if$ -- 1271
+cite$ -- 25
+duplicate$ -- 248
+empty$ -- 491
+format.name$ -- 100
+if$ -- 1343
 int.to.chr$ -- 0
-int.to.str$ -- 19
-missing$ -- 13
-newline$ -- 94
-num.names$ -- 38
-pop$ -- 125
+int.to.str$ -- 20
+missing$ -- 14
+newline$ -- 99
+num.names$ -- 40
+pop$ -- 128
 preamble$ -- 1
-purify$ -- 84
+purify$ -- 88
 quote$ -- 0
-skip$ -- 189
+skip$ -- 197
 stack$ -- 0
-substring$ -- 310
-swap$ -- 58
+substring$ -- 347
+swap$ -- 59
 text.length$ -- 5
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 76
+type$ -- 80
 warning$ -- 5
-while$ -- 58
-width$ -- 21
-write$ -- 195
+while$ -- 62
+width$ -- 22
+write$ -- 206
 (There was 1 error message)

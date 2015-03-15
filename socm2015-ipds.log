@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.3.6)  15 MAR 2015 16:04
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.3.6)  15 MAR 2015 16:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -366,10 +366,6 @@ Overfull \hbox (6.3074pt too wide) in paragraph at lines 205--205
 Underfull \vbox (badness 1558) has occurred while \output is active []
 
 
-LaTeX Warning: Citation `bendrath2011end' on page \thepage  undefined on input 
-line 242.
-
-
 Overfull \hbox (6.77602pt too wide) in paragraph at lines 250--250
 []\secfnt INDX: A DE-CEN-TRALISED SO-CIAL MA-
  []
@@ -443,11 +439,11 @@ p/socm2015-spds/socm2015-ipds.bbl) [6] (/Users/electronic/Desktop/socm2015-spds
 Here is how much of TeX's memory you used:
  5506 strings out of 493315
  81579 string characters out of 6137905
- 203413 words of memory out of 5000000
+ 204417 words of memory out of 5000000
  8401 multiletter control sequences out of 15000+600000
  93629 words of font info for 437 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 41i,10n,56p,1946b,363s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,10n,56p,1938b,363s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/base/8
 r.enc}</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.
 pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb
@@ -460,7 +456,7 @@ exlive/2013/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/
 -dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2013/texmf-dist/font
 s/type1/urw/times/utmri8a.pfb>
 Output written on /Users/electronic/Desktop/socm2015-spds/socm2015-ipds.pdf (6 
-pages, 1065941 bytes).
+pages, 1065900 bytes).
 PDF statistics:
  73 PDF objects out of 1000 (max. 8388607)
  46 compressed objects within 1 object stream
